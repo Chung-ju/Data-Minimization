@@ -15,11 +15,15 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 </details>
 
 ### Terminology explanation
++ **Data quantity minimization**
+  + Data retention heuristics focusing on performance-related properties of data.
+  + Retain the most recent data while discarding old data.
++ **Data quality minimization**:
 + **Performance-based data minimization**
-  + global data minimization: *aims to minimize per-user data collection subject to meeting a target mean performance across users.*
-  + per-user data minimization: *aims to minimize per-user data collection subject to meeting a target performance for the minimum across all users.*
-+ **Breadth-based data minimization**: *aims to minimize the number of features.*
-+ **Depth-based data minimization**: *aims to minimize the overall amount of data collected for one data modality.*
+  + Global data minimization: aims to minimize per-user data collection subject to meeting a target mean performance across users.
+  + Per-user data minimization: aims to minimize per-user data collection subject to meeting a target performance for the minimum across all users.
++ **Breadth-based data minimization**: aims to minimize the number of features.
++ **Depth-based data minimization**: aims to minimize the overall amount of data collected for one data modality.
 
 ### Related papers
 
