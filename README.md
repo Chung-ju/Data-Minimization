@@ -13,7 +13,6 @@
 <summary><strong>How to interpret "minimum"?</strong></summary>
 The first and perhaps most intuitive explanation of minimum is on the <em>data quantity</em>, i.e., sensing the smallest amount of data required for the purpose. Actually, other interpretations exist, such as <em>data precision</em>, <em>data sensitivity</em>, and <em>data predictability</em>.
 </details>
-<br/>
 
 ### Terminology explanation
 + **Performance-based data minimization**
