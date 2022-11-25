@@ -19,8 +19,8 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 | Name        | Description | Type        | Type        |
 | ----------- | ----------- | ----------- | ----------- |
-| Operationalizing the Legal Principle of Data Minimization for Personalization.|xx| Conference|[SIGIR2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401034)|
-| Learning to Limit Data Collection via Scaling Laws: A Computational Interpretation for the Legal Principle of Data Minimization.|Text|Conference| [FAccT2022](https://dl.acm.org/doi/abs/10.1145/3531146.3533148)|
+| Operationalizing the Legal Principle of Data Minimization for Personalization. | Personalization, Recommender systems, Performance-based data minimization | Conference | [SIGIR2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401034) |
+| Learning to Limit Data Collection via Scaling Laws: A Computational Interpretation for the Legal Principle of Data Minimization. | Text | Conference | [FAccT2022](https://dl.acm.org/doi/abs/10.1145/3531146.3533148) |
 
 <!-- #### Data precision
 
