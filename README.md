@@ -1,6 +1,7 @@
 <h1 align="center">
   <b>Least Sensing</b><br>
 </h1>
+
 **Original paper**: [The Principle of Least Sensing: A Privacy-Friendly Sensing Paradigm for Urban Big Data Analytics.](https://dl.acm.org/doi/abs/10.1145/3522696)
 
 <details>
