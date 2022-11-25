@@ -16,7 +16,9 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 <br/>
 
 ### Terminology explanation
-+ **Performance-based data minimization**:
++ **Performance-based data minimization**
+  + global data minimization:
+  + per-user data minimization:
 + **Breadth-based data minimization**: *Aims to minimize the number of features.*
 + **Depth-based data minimization**: *Aims to minimize the overall amount of data collected for one data modality.*
 
