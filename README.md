@@ -15,12 +15,12 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 </details>
 <br/>
 
-**Terminology explanation:**
-+ Performance-based data minimization:
-+ Depth-based data minimization:
-+ Breadth-based data minimization: Aims to minimize the number of features.
+#### Terminology explanation
++ **Performance-based data minimization**:
++ **Breadth-based data minimization**: *Aims to minimize the number of features.*
++ **Depth-based data minimization**: *Aims to minimize the overall amount of data collected for one data modality.*
 
-**Related papers:**
+#### Related papers
 
 | Name        | Description | Type        | Link        |
 | ----------- | ----------- | ----------- | ----------- |
