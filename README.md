@@ -25,6 +25,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 + **Breadth-based data minimization**: aims to minimize the number of features.
 + **Depth-based data minimization**: aims to minimize the overall amount of data collected for one data modality.
 + **Runtime data minimization**: aims to minimize newly collected data for analysis or prediction.
++ **Personalized data minimization**: aims to allow different users to reveal more or less about different aspects of their lives based on their own personal preference.
 
 ### Related papers
 
@@ -33,7 +34,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 | Operationalizing the Legal Principle of Data Minimization for Personalization. | Personalization, Recommender systems, Performance-based data minimization, Domain- and algorithm-specific heuristics | Conference | [SIGIR2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401034) |
 | Learning to Limit Data Collection via Scaling Laws: A Computational Interpretation for the Legal Principle of Data Minimization. | Performance-based data minimization, Depth-based data minimization, Data collection stopping criterion | Conference | [FAccT2022](https://dl.acm.org/doi/abs/10.1145/3531146.3533148) |
 | Reviving Purpose Limitation and Data Minimisation in DataDriven Systems. | Performance-based data minimization, Data-driven systems | Journal | [TechReg2021](https://techreg.org/article/download/10986/version/10973/11960/20667) |
-| Data Minimization for GDPR Compliance in Machine Learning Models. | Breadth-based data minimization, Runtime data minimization  | Journal | [AIEthics2022](https://link.springer.com/article/10.1007/s43681-021-00095-8) |
+| Data Minimization for GDPR Compliance in Machine Learning Models. | Breadth-based data minimization, Runtime data minimization, Personalized data minimization, Knowledge distillation | Journal | [AIEthics2022](https://link.springer.com/article/10.1007/s43681-021-00095-8) |
 | Auditing Black-Box Prediction Models for Data Minimization Compliance. | Breadth-based data minimization, | Conference | [NIPS2021](https://proceedings.neurips.cc/paper/2021/file/ac6b3cce8c74b2e23688c3e45532e2a7-Paper.pdf) |
 
 <!-- #### Data precision
