@@ -36,6 +36,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 | Reviving Purpose Limitation and Data Minimisation in DataDriven Systems. | Performance-based data minimization, Data-driven systems | Journal | [TechReg2021](https://techreg.org/article/download/10986/version/10973/11960/20667) |
 | Data Minimization for GDPR Compliance in Machine Learning Models. | Breadth-based data minimization, Runtime data minimization, Personalized data minimization, Knowledge distillation | Journal | [AIEthics2022](https://link.springer.com/article/10.1007/s43681-021-00095-8) |
 | Auditing Black-Box Prediction Models for Data Minimization Compliance. | Breadth-based data minimization, | Conference | [NIPS2021](https://proceedings.neurips.cc/paper/2021/file/ac6b3cce8c74b2e23688c3e45532e2a7-Paper.pdf) |
+| A Data Minimization Model for Embedding Privacy into Software Systems | | Journal | [ComSec2019](https://www.sciencedirect.com/science/article/pii/S0167404818309106) |
 
 <!-- #### Data precision
 
