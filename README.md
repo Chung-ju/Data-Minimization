@@ -64,7 +64,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 | Reviving Purpose Limitation and Data Minimisation in DataDriven Systems. | Performance-based data minimization, Data-driven systems | Journal | [TechReg2021](https://techreg.org/article/download/10986/version/10973/11960/20667) |
 | Data Minimization for GDPR Compliance in Machine Learning Models. | Breadth-based data minimization, Runtime data minimization, Personalized data minimization, Knowledge distillation | Journal | [AIEthics2022](https://link.springer.com/article/10.1007/s43681-021-00095-8) |
 | Auditing Black-Box Prediction Models for Data Minimization Compliance. | Breadth-based data minimization, Feature replacement, Auditing scenario, Operational definition of the data minimization | Conference | [NIPS2021](https://proceedings.neurips.cc/paper/2021/file/ac6b3cce8c74b2e23688c3e45532e2a7-Paper.pdf) |
-| Auditing Algorithms: On Lessons Learned and the Risks of Data Minimization. | | Conference | [AIES2021](https://dl.acm.org/doi/abs/10.1145/3375627.3375852) |
+| Auditing Algorithms: On Lessons Learned and the Risks of Data Minimization. | Auditing scenario,  | Conference | [AIES2021](https://dl.acm.org/doi/abs/10.1145/3375627.3375852) |
 | A Data Minimization Model for Embedding Privacy into Software Systems. | Understand and minimize the use of data in the decision of collection, storing and sharing, Data sensitivity, Software system design | Journal | [ComSec2019](https://www.sciencedirect.com/science/article/pii/S0167404818309106) |
 | A Lightweight Scheme Exploiting Social Networks for Data Minimization According to the GDPR. | | Journal | [TCSS2021](https://ieeexplore.ieee.org/abstract/document/9330798) |
 | Detecting Conflicts Between Data-Minimization and Security Requirements in Business Process Models. | | Conference | [ECMFA2018](https://link.springer.com/chapter/10.1007/978-3-319-92997-2_12) |
@@ -72,6 +72,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 | A Siamese Adversarial Anonymizer for Data Minimization in Biometric Applications. | | Conference | [EuroS&P](https://ieeexplore.ieee.org/abstract/document/9229760) |
 | Query-Driven Data Minimization with the DataEconomist. | | Conference | [EDBT2019](https://openproceedings.org/2019/conf/edbt/EDBT19_paper_365.pdf) |
 | Towards Query-Driven Data Minimization. | | Conference | [LWDA2018](https://ceur-ws.org/Vol-2191/paper39.pdf) |
+
 
 <!-- #### Data precision
 
