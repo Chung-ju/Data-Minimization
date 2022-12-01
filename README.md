@@ -29,11 +29,12 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 + **Query-Driven Data Minimization**:
 
 ### Related papers
-<!-- <table>
+<table>
   <tbody>
     <tr>
       <th>Name</th>
       <th align="center">Description</th>
+      <th align="center">Stage</th>
       <th align="center">Type</th>
       <th align="center">Link</th>
     </tr>
@@ -47,20 +48,36 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
           <li>Domain- and algorithm-specific heuristics</li>
         </ul>
       </td>
+      <td align="center"></td>
       <td align="center">Conference</td>
       <td align="center">
-        <a href="[url](https://dl.acm.org/doi/abs/10.1145/3397271.3401034)">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401034">
           SIGIR2020
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Learning to Limit Data Collection via Scaling Laws: A Computational Interpretation for the Legal Principle of Data Minimization.</td>
+      <td align="left">
+        <ul>
+          <li>Performance-based data minimization</li>
+          <li>Depth-based data minimization</li>
+          <li>Data collection stopping criterion</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Conference</td>
+      <td align="center">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3531146.3533148">
+          FAccT2022
+        </a>
+      </td>
+    </tr>
   </tbody>
-</table> -->
+</table>
 
 | Name        | Description | Type        | Link        |
 | ----------- | ----------- | ----------- | ----------- |
-| Operationalizing the Legal Principle of Data Minimization for Personalization. | Personalization, Recommender systems, Performance-based data minimization, Domain- and algorithm-specific heuristics | Conference | [SIGIR2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401034) |
-| Learning to Limit Data Collection via Scaling Laws: A Computational Interpretation for the Legal Principle of Data Minimization. | Performance-based data minimization, Depth-based data minimization, Data collection stopping criterion | Conference | [FAccT2022](https://dl.acm.org/doi/abs/10.1145/3531146.3533148) |
 | Reviving Purpose Limitation and Data Minimisation in DataDriven Systems. | Performance-based data minimization, Data-driven systems | Journal | [TechReg2021](https://techreg.org/article/download/10986/version/10973/11960/20667) |
 | Data Minimization for GDPR Compliance in Machine Learning Models. | Breadth-based data minimization, Runtime data minimization, Personalized data minimization, Knowledge distillation | Journal | [AIEthics2022](https://link.springer.com/article/10.1007/s43681-021-00095-8) |
 | Auditing Black-Box Prediction Models for Data Minimization Compliance. | Breadth-based data minimization, Feature replacement, Auditing scenario, Operational definition of the data minimization | Conference | [NIPS2021](https://proceedings.neurips.cc/paper/2021/file/ac6b3cce8c74b2e23688c3e45532e2a7-Paper.pdf) |
