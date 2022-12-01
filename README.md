@@ -2,6 +2,14 @@
   <b>Data Minimization</b><br>
 </h1>
 
+### Introduction
+
+xxx
+
+### Different stage
+
+#### Stage 1: data collection
+
 **Original paper**: [The Principle of Least Sensing: A Privacy-Friendly Sensing Paradigm for Urban Big Data Analytics.](https://dl.acm.org/doi/abs/10.1145/3522696)
 
 <details>
@@ -13,6 +21,10 @@
 <summary><strong>How to interpret "minimum"?</strong></summary>
 The first and perhaps most intuitive explanation of minimum is on the <em>data quantity</em>, i.e., sensing the smallest amount of data required for the purpose. Actually, other interpretations exist, such as <em>data precision</em>, <em>data sensitivity</em>, and <em>data predictability</em>.
 </details>
+
+#### Stage 2: 
+
+#### Stage 3:
 
 ### Terminology explanation
 + **Data quantity minimization**
@@ -73,12 +85,28 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Reviving Purpose Limitation and Data Minimisation in DataDriven Systems.</td>
+      <td align="left">
+        <ul>
+          <li>Performance-based data minimization</li>
+          <li>Data-driven systems</li>
+          <li>Data collection stopping criterion</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://techreg.org/article/download/10986/version/10973/11960/20667">
+          TechReg2021
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
 | Name        | Description | Type        | Link        |
 | ----------- | ----------- | ----------- | ----------- |
-| Reviving Purpose Limitation and Data Minimisation in DataDriven Systems. | Performance-based data minimization, Data-driven systems | Journal | [TechReg2021](https://techreg.org/article/download/10986/version/10973/11960/20667) |
 | Data Minimization for GDPR Compliance in Machine Learning Models. | Breadth-based data minimization, Runtime data minimization, Personalized data minimization, Knowledge distillation | Journal | [AIEthics2022](https://link.springer.com/article/10.1007/s43681-021-00095-8) |
 | Auditing Black-Box Prediction Models for Data Minimization Compliance. | Breadth-based data minimization, Feature replacement, Auditing scenario, Operational definition of the data minimization | Conference | [NIPS2021](https://proceedings.neurips.cc/paper/2021/file/ac6b3cce8c74b2e23688c3e45532e2a7-Paper.pdf) |
 | Auditing Algorithms: On Lessons Learned and the Risks of Data Minimization. | Auditing scenario,  | Conference | [AIES2021](https://dl.acm.org/doi/abs/10.1145/3375627.3375852) |
