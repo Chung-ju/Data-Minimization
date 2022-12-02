@@ -397,5 +397,20 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Student Success Prediction and the Trade-Off between Big Data and Data Minimization.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Conference</td>
+      <td align="center">
+        <a href="https://dspace.gi.de/bitstream/handle/20.500.12116/21041/proceedings_22.pdf?sequence=1&isAllowed=y">
+          DeLFI2018
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
