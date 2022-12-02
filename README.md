@@ -442,5 +442,20 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Privacy 3.0 := Data Minimization + User Control + Contextual Integrity.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://www.degruyter.com/document/doi/10.1524/itit.2011.0622/html">
+          InfTech2011
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
