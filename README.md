@@ -322,5 +322,35 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Privacy Architectures: Reasoning About Data Minimisation and Integrity.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Conference</td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-319-11851-2_2">
+          STM2014
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Fair Inputs and Fair Outputs The Incompatibility of Fairness in Privacy and Accuracy.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Conference</td>
+      <td align="center">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3386392.3399568">
+          UMAP2020
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
