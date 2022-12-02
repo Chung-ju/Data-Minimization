@@ -367,5 +367,20 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Regime Change: Enabling Big Data through Europe's New Data Protection Regulation.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://heinonline.org/HOL/LandingPage?handle=hein.journals/cstlr17&div=11&id=&page=">
+          SciTech2016
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
