@@ -457,5 +457,20 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Towards a Formal Approach for Data Minimization in Programs.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Conference</td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-030-93944-1_11">
+           DPM/CBT2021
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
