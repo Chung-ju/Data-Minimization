@@ -292,5 +292,35 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">A Process for Data Protection Impact Assessment Under the European General Data Protection Regulation.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Conference</td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-319-44760-5_2">
+          APF2016
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Practical Data Access Minimization in Trigger-Action Platforms.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Conference</td>
+      <td align="center">
+        <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yunang-practical">
+          USENIXSS2022
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
