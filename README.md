@@ -352,5 +352,20 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">How to address data privacy concerns when using social media data in conservation science.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/cobi.13708">
+          ConBio2021
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
