@@ -252,7 +252,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="left">
         <ul>
           <li>xxx</li>
-          <li>xxx</li>
         </ul>
       </td>
       <td align="center"></td>
@@ -260,6 +259,36 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">
         <a href="https://ceur-ws.org/Vol-2191/paper39.pdf">
           LWDA2018
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Embedding Personal Data Minimization Technologies in Organizations: Needs, Vision and Artifacts.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Conference</td>
+      <td align="center">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3494193.3494203">
+          ICEGOV2021
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Configurable Per-Query Data Minimization for Privacy-Compliant Web APIs.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Conference</td>
+      <td align="center">
+        <a href="https://arxiv.org/abs/2203.09903">
+          ICWE2022
         </a>
       </td>
     </tr>
