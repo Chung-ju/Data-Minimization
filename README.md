@@ -382,5 +382,20 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">The European General Data Protection Regulation: challenges and considerations for iPSC researchers and biobanks.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://www.futuremedicine.com/doi/10.2217/rme-2017-0068">
+          FutMed2017
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
