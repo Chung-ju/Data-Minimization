@@ -427,5 +427,20 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">I Prefer not to Say: Operationalizing Fair and User-guided Data Minimization.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://arxiv.org/abs/2210.13954">
+          CoRR2022
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
