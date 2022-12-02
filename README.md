@@ -412,5 +412,20 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">The Legal Challenges of Big Data: Putting Secondary Rules First in the Field of EU Data Protection.</td>
+      <td align="left">
+        <ul>
+          <li>xxx</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://heinonline.org/HOL/LandingPage?handle=hein.journals/edpl3&div=9&id=&page=">
+          EDPL2017
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
