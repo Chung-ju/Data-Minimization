@@ -161,26 +161,23 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
     <tr>
       <td align="left">Detecting Conflicts Between Data-Minimization and Security Requirements in Business Process Models.</td>
-      <td align="left">
-        <ul>
-          <li>xx</li>
-        </ul>
-      </td>
+      <td align="center">?</td>
       <td align="center"></td>
-      <td align="center">Conference</td>
+      <td align="center"></td>
+      <td align="center"></td>
       <td align="center">
         <a href="https://link.springer.com/chapter/10.1007/978-3-319-92997-2_12">
           ECMFA2018
         </a>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
     <tr>
       <td align="left">A semi-automated BPMN-based framework for detecting conflicts between security, data-minimization, and fairness requirements.</td>
       <td align="left">
