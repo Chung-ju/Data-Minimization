@@ -53,7 +53,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <th align="center">Link</th>
     </tr>
     <tr>
-      <td align="left">Operationalizing the Legal Principle of Data Minimization for Personalization</td>
+      <td align="left">Operationalizing the Legal Principle of Data Minimization for Personalization.</td>
       <td align="center">Data collection</td>
       <td align="center"></td>
       <td align="center"></td>
@@ -63,6 +63,20 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">
         <a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401034">
           SIGIR2020
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Learning to Limit Data Collection via Scaling Laws: A Computational Interpretation for the Legal Principle of Data Minimization.</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td>
+        xx
+      </td>
+      <td align="center">
+        <a href="https://dl.acm.org/doi/pdf/10.1145/3531146.3533148">
+          FAccT2022
         </a>
       </td>
     </tr>
@@ -77,24 +91,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <th align="center">Stage</th>
       <th align="center">Type</th>
       <th align="center">Link</th>
-    </tr>
-    <tr>
-      <td align="left">Operationalizing the Legal Principle of Data Minimization for Personalization.</td>
-      <td align="left">
-        <ul>
-          <li>Personalization</li>
-          <li>Recommender systems</li>
-          <li>Performance-based data minimization</li>
-          <li>Domain- and algorithm-specific heuristics</li>
-        </ul>
-      </td>
-      <td align="center">Data collection</td>
-      <td align="center">Conference</td>
-      <td align="center">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401034">
-          SIGIR2020
-        </a>
-      </td>
     </tr>
     <tr>
       <td align="left">Learning to Limit Data Collection via Scaling Laws: A Computational Interpretation for the Legal Principle of Data Minimization.</td>
