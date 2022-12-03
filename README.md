@@ -81,6 +81,18 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">A Lightweight Scheme Exploiting Social Networks for Data Minimization According to the GDPR.</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      <td align="center">
+        <a href="https://ieeexplore.ieee.org/abstract/document/9330798">
+          TCSS2021
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Learning to Limit Data Collection via Scaling Laws: A Computational Interpretation for the Legal Principle of Data Minimization.</td>
       <td align="center">Data collection</td>
       <td align="center"></td>
@@ -154,21 +166,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 <table>
   <tbody>
-    <tr>
-      <td align="left">A Lightweight Scheme Exploiting Social Networks for Data Minimization According to the GDPR.</td>
-      <td align="left">
-        <ul>
-          <li>xx</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Journal</td>
-      <td align="center">
-        <a href="https://ieeexplore.ieee.org/abstract/document/9330798">
-          TCSS2021
-        </a>
-      </td>
-    </tr>
     <tr>
       <td align="left">Detecting Conflicts Between Data-Minimization and Security Requirements in Business Process Models.</td>
       <td align="left">
