@@ -94,7 +94,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
           <li>Data collection stopping criterion</li>
         </ul>
       </td>
-      <td align="center"></td>
+      <td align="center">/</td>
       <td align="center">Journal</td>
       <td align="center">
         <a href="https://techreg.org/article/download/10986/version/10973/11960/20667">
