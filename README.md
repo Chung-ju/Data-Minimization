@@ -72,7 +72,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center"></td>
       <td align="center"></td>
       <td>
-        xx
+        Performance-based data minimization, Depth-based data minimization, Data collection stopping criterion</li>
       </td>
       <td align="center">
         <a href="https://dl.acm.org/doi/pdf/10.1145/3531146.3533148">
@@ -105,23 +105,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <th align="center">Stage</th>
       <th align="center">Type</th>
       <th align="center">Link</th>
-    </tr>
-    <tr>
-      <td align="left">Learning to Limit Data Collection via Scaling Laws: A Computational Interpretation for the Legal Principle of Data Minimization.</td>
-      <td align="left">
-        <ul>
-          <li>Performance-based data minimization</li>
-          <li>Depth-based data minimization</li>
-          <li>Data collection stopping criterion</li>
-        </ul>
-      </td>
-      <td align="center">Data collection</td>
-      <td align="center">Conference</td>
-      <td align="center">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3531146.3533148">
-          FAccT2022
-        </a>
-      </td>
     </tr>
     <tr>
       <td align="left">Reviving Purpose Limitation and Data Minimisation in DataDriven Systems.</td>
