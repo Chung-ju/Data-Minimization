@@ -132,6 +132,19 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">Configurable Per-Query Data Minimization for Privacy-Compliant Web APIs.</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      </td>
+      <td align="center">
+        <a href="https://arxiv.org/abs/2203.09903">
+          ICWE2022
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Learning to Limit Data Collection via Scaling Laws: A Computational Interpretation for the Legal Principle of Data Minimization.</td>
       <td align="center">Data collection</td>
       <td align="center"></td>
@@ -247,21 +260,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 <table>
   <tbody>
-    <tr>
-      <td align="left">Configurable Per-Query Data Minimization for Privacy-Compliant Web APIs.</td>
-      <td align="left">
-        <ul>
-          <li>xxx</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Conference</td>
-      <td align="center">
-        <a href="https://arxiv.org/abs/2203.09903">
-          ICWE2022
-        </a>
-      </td>
-    </tr>
     <tr>
       <td align="left">A Process for Data Protection Impact Assessment Under the European General Data Protection Regulation.</td>
       <td align="left">
