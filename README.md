@@ -95,6 +95,33 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">Auditing Black-Box Prediction Models for Data Minimization Compliance.</td>
+      <td align="center">Data audit</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+        Breadth-based data minimization, Feature replacement, Operational definition of the data minimization
+      </td>
+      <td align="center">
+        <a href="https://proceedings.neurips.cc/paper/2021/file/ac6b3cce8c74b2e23688c3e45532e2a7-Paper.pdf">
+          NIPS2021
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Auditing Algorithms: On Lessons Learned and the Risks of Data Minimization.</td>
+      <td align="center">Data audit</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      </td>
+      <td align="center">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3375627.3375852">
+          AIES2021
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Reviving Purpose Limitation and Data Minimisation in DataDriven Systems.</td>
       <td align="center">Other</td>
       <td align="center"></td>
@@ -119,38 +146,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <th align="center">Stage</th>
       <th align="center">Type</th>
       <th align="center">Link</th>
-    </tr>
-    <tr>
-      <td align="left">Auditing Black-Box Prediction Models for Data Minimization Compliance.</td>
-      <td align="left">
-        <ul>
-          <li>Breadth-based data minimization</li>
-          <li>Feature replacement</li>
-          <li>Operational definition of the data minimization</li>
-        </ul>
-      </td>
-      <td align="center">Data audit</td>
-      <td align="center">Conference</td>
-      <td align="center">
-        <a href="https://proceedings.neurips.cc/paper/2021/file/ac6b3cce8c74b2e23688c3e45532e2a7-Paper.pdf">
-          NIPS2021
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left">Auditing Algorithms: On Lessons Learned and the Risks of Data Minimization.</td>
-      <td align="left">
-        <ul>
-          <li>xx</li>
-        </ul>
-      </td>
-      <td align="center">Data audit</td>
-      <td align="center">Conference</td>
-      <td align="center">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3375627.3375852">
-          AIES2021
-        </a>
-      </td>
     </tr>
     <tr>
       <td align="left">A Data Minimization Model for Embedding Privacy into Software Systems.</td>
