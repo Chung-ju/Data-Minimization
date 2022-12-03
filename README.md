@@ -173,27 +173,28 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
     <tr>
       <td align="left">A semi-automated BPMN-based framework for detecting conflicts between security, data-minimization, and fairness requirements.</td>
+      <td align="center">?</td>
+      <td align="center"></td>
+      <td align="center"></td>
       <td align="left">
         <ul>
           <li>Reusable domain-specific detection (conflict between needs and specifications)</li>
           <li>Fairness-related conflict</li>
         </ul>
       </td>
-      <td align="center"></td>
-      <td align="center">Journal</td>
       <td align="center">
         <a href="https://link.springer.com/article/10.1007/s10270-020-00781-x">
           SSM2020
         </a>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
     <tr>
       <td align="left">A Siamese Adversarial Anonymizer for Data Minimization in Biometric Applications.</td>
       <td align="left">
