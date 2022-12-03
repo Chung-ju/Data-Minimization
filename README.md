@@ -77,7 +77,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
           <li>Data collection stopping criterion</li>
         </ul>
       </td>
-      <td align="center"></td>
+      <td align="center">Data collection</td>
       <td align="center">Conference</td>
       <td align="center">
         <a href="https://dl.acm.org/doi/abs/10.1145/3531146.3533148">
