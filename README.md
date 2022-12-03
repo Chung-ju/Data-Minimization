@@ -53,6 +53,19 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <th align="center">Link</th>
     </tr>
     <tr>
+      <td align="left">Query-Driven Data Minimization with the DataEconomist.</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      </td>
+      <td align="center">
+        <a href="https://openproceedings.org/2019/conf/edbt/EDBT19_paper_365.pdf">
+          EDBT2019
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">A Data Minimization Model for Embedding Privacy into Software Systems.</td>
       <td align="center">Data collection</td>
       <td align="center"></td>
@@ -103,6 +116,19 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">
         <a href="https://dl.acm.org/doi/pdf/10.1145/3531146.3533148">
           FAccT2022
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">A Siamese Adversarial Anonymizer for Data Minimization in Biometric Applications.</td>
+      <td align="center">Data inference</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      </td>
+      <td align="center">
+        <a href="https://ieeexplore.ieee.org/abstract/document/9229760">
+          EuroS&P2020
         </a>
       </td>
     </tr>
@@ -195,38 +221,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 <table>
   <tbody>
-    <tr>
-      <td align="left">A Siamese Adversarial Anonymizer for Data Minimization in Biometric Applications.</td>
-      <td align="left">
-        <ul>
-          <li>xxx</li>
-          <li>xxx</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Conference</td>
-      <td align="center">
-        <a href="https://ieeexplore.ieee.org/abstract/document/9229760">
-          EuroS&P
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left">Query-Driven Data Minimization with the DataEconomist.</td>
-      <td align="left">
-        <ul>
-          <li>xxx</li>
-          <li>xxx</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Conference</td>
-      <td align="center">
-        <a href="https://openproceedings.org/2019/conf/edbt/EDBT19_paper_365.pdf">
-          EDBT2019
-        </a>
-      </td>
-    </tr>
     <tr>
       <td align="left">Towards Query-Driven Data Minimization.</td>
       <td align="left">
