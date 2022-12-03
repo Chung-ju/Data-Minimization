@@ -63,7 +63,11 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
           <li>Recommender systems</li>
         </ul>
       </td>
-      <td align="center"></td>
+      <td align="center">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401034">
+          SIGIR2020
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
