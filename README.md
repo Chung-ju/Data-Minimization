@@ -41,10 +41,37 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 + **Query-Driven Data Minimization**:
 
 ### 4. Related papers
+
 <table>
   <tbody>
     <tr>
-      <th>Name</th>
+      <th>Title</th>
+      <th align="center">Stage</th>
+      <th align="center">Min. entity</th>
+      <th align="center">Necessity meas.</th>
+      <th align="center">Note</th>
+      <th align="center">Link</th>
+    </tr>
+    <tr>
+      <td align="left">Operationalizing the Legal Principle of Data Minimization for Personalization</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">
+        <ul>
+          <li>Personalization</li>
+          <li>Recommender systems</li>
+        </ul>
+      </td>
+      <td align="center"></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>Title</th>
       <th align="center">Description</th>
       <th align="center">Stage</th>
       <th align="center">Type</th>
