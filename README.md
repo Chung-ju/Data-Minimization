@@ -82,15 +82,29 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
     </tr>
     <tr>
       <td align="left">Data Minimization for GDPR Compliance in Machine Learning Models.</td>
-      <td align="center"></td>
+      <td align="center">Data inference</td>
       <td align="center"></td>
       <td align="center"></td>
       <td>
-        xx
+        Breadth-based data minimization, Runtime data minimization, Personalized data minimization, Knowledge distillation
       </td>
       <td align="center">
         <a href="https://link.springer.com/article/10.1007/s43681-021-00095-8">
           AIEthics2022
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Reviving Purpose Limitation and Data Minimisation in DataDriven Systems.</td>
+      <td align="center">Other</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+        Performance-based data minimization, Data-driven systems, Data collection stopping criterion
+      </td>
+      <td align="center">
+        <a href="https://techreg.org/article/download/10986/version/10973/11960/20667">
+          TechReg2021
         </a>
       </td>
     </tr>
@@ -105,41 +119,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <th align="center">Stage</th>
       <th align="center">Type</th>
       <th align="center">Link</th>
-    </tr>
-    <tr>
-      <td align="left">Reviving Purpose Limitation and Data Minimisation in DataDriven Systems.</td>
-      <td align="left">
-        <ul>
-          <li>Performance-based data minimization</li>
-          <li>Data-driven systems</li>
-          <li>Data collection stopping criterion</li>
-        </ul>
-      </td>
-      <td align="center">/</td>
-      <td align="center">Journal</td>
-      <td align="center">
-        <a href="https://techreg.org/article/download/10986/version/10973/11960/20667">
-          TechReg2021
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left">Data Minimization for GDPR Compliance in Machine Learning Models.</td>
-      <td align="left">
-        <ul>
-          <li>Breadth-based data minimization</li>
-          <li>Runtime data minimization</li>
-          <li>Personalized data minimization</li>
-          <li>Knowledge distillation</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Journal</td>
-      <td align="center">
-        <a href="https://link.springer.com/article/10.1007/s43681-021-00095-8">
-          AIEthics2022
-        </a>
-      </td>
     </tr>
     <tr>
       <td align="left">Auditing Black-Box Prediction Models for Data Minimization Compliance.</td>
