@@ -53,6 +53,20 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <th align="center">Link</th>
     </tr>
     <tr>
+      <td align="left">A Data Minimization Model for Embedding Privacy into Software Systems.</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+        Understand and minimize the use of data, Data sensitivity, Software system design
+      </td>
+      <td align="center">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0167404818309106">
+          ComSec2019
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Operationalizing the Legal Principle of Data Minimization for Personalization.</td>
       <td align="center">Data collection</td>
       <td align="center"></td>
@@ -140,30 +154,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 <table>
   <tbody>
-    <tr>
-      <th>Title</th>
-      <th align="center">Description</th>
-      <th align="center">Stage</th>
-      <th align="center">Type</th>
-      <th align="center">Link</th>
-    </tr>
-    <tr>
-      <td align="left">A Data Minimization Model for Embedding Privacy into Software Systems.</td>
-      <td align="left">
-        <ul>
-          <li>Understand and minimize the use of data in the decision of collection, storing and sharing</li>
-          <li>Data sensitivity</li>
-          <li>Software system design</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Journal</td>
-      <td align="center">
-        <a href="https://www.sciencedirect.com/science/article/pii/S0167404818309106">
-          ComSec2019
-        </a>
-      </td>
-    </tr>
     <tr>
       <td align="left">A Lightweight Scheme Exploiting Social Networks for Data Minimization According to the GDPR.</td>
       <td align="left">
