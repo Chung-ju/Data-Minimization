@@ -80,6 +80,20 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Data Minimization for GDPR Compliance in Machine Learning Models.</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td>
+        xx
+      </td>
+      <td align="center">
+        <a href="https://link.springer.com/article/10.1007/s43681-021-00095-8">
+          AIEthics2022
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
