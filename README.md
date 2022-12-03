@@ -57,11 +57,8 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">Data collection</td>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="center">
-        <ul>
-          <li>Personalization</li>
-          <li>Recommender systems</li>
-        </ul>
+      <td>
+        Recommender systems, Personalization
       </td>
       <td align="center">
         <a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401034">
