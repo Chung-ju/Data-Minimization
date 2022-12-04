@@ -280,6 +280,18 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">Regime Change: Enabling Big Data through Europe's New Data Protection Regulation.</td>
+      <td align="center">Other</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left"></td>
+      <td align="center">
+        <a href="https://heinonline.org/HOL/LandingPage?handle=hein.journals/cstlr17&div=11&id=&page=">
+          SciTech2016
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Detecting Conflicts Between Data-Minimization and Security Requirements in Business Process Models.</td>
       <td align="center">?</td>
       <td align="center"></td>
@@ -326,21 +338,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 <table>
   <tbody>
-    <tr>
-      <td align="left">Regime Change: Enabling Big Data through Europe's New Data Protection Regulation.</td>
-      <td align="left">
-        <ul>
-          <li>xxx</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Journal</td>
-      <td align="center">
-        <a href="https://heinonline.org/HOL/LandingPage?handle=hein.journals/cstlr17&div=11&id=&page=">
-          SciTech2016
-        </a>
-      </td>
-    </tr>
     <tr>
       <td align="left">The European General Data Protection Regulation: challenges and considerations for iPSC researchers and biobanks.</td>
       <td align="left">
