@@ -372,6 +372,19 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">A Process for Data Protection Impact Assessment Under the European General Data Protection Regulation.</td>
+      <td align="center">other</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      </td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-319-44760-5_2">
+          APF2016
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">The European General Data Protection Regulation: challenges and considerations for iPSC researchers and biobanks.</td>
       <td align="center">Other</td>
       <td align="center"></td>
@@ -408,19 +421,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">
         <a href="https://techreg.org/article/download/10986/version/10973/11960/20667">
           TechReg2021
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left">A Process for Data Protection Impact Assessment Under the European General Data Protection Regulation.</td>
-      <td align="center">?</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="left">
-      </td>
-      <td align="center">
-        <a href="https://link.springer.com/chapter/10.1007/978-3-319-44760-5_2">
-          APF2016
         </a>
       </td>
     </tr>
