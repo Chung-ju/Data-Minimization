@@ -264,6 +264,18 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">Detecting Conflicts Between Data-Minimization and Security Requirements in Business Process Models.</td>
+      <td align="center">Data inference</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-319-92997-2_12">
+          ECMFA2018
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">A Siamese Adversarial Anonymizer for Data Minimization in Biometric Applications.</td>
       <td align="center">Data inference</td>
       <td align="center"></td>
@@ -379,18 +391,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">
         <a href="https://techreg.org/article/download/10986/version/10973/11960/20667">
           TechReg2021
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left">Detecting Conflicts Between Data-Minimization and Security Requirements in Business Process Models.</td>
-      <td align="center">?</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center">
-        <a href="https://link.springer.com/chapter/10.1007/978-3-319-92997-2_12">
-          ECMFA2018
         </a>
       </td>
     </tr>
