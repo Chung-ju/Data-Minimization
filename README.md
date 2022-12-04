@@ -122,6 +122,18 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">Fair Inputs and Fair Outputs The Incompatibility of Fairness in Privacy and Accuracy.</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left"></td>
+      <td align="center">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3386392.3399568">
+          UMAP2020
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Embedding Personal Data Minimization Technologies in Organizations: Needs, Vision and Artifacts.</td>
       <td align="center">Data collection</td>
       <td align="center"></td>
@@ -301,21 +313,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 <table>
   <tbody>
-    <tr>
-      <td align="left">Fair Inputs and Fair Outputs The Incompatibility of Fairness in Privacy and Accuracy.</td>
-      <td align="left">
-        <ul>
-          <li>xxx</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Conference</td>
-      <td align="center">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3386392.3399568">
-          UMAP2020
-        </a>
-      </td>
-    </tr>
     <tr>
       <td align="left">How to address data privacy concerns when using social media data in conservation science.</td>
       <td align="left">
