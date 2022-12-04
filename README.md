@@ -185,6 +185,19 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">Towards a Formal Approach for Data Minimization in Programs.</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      </td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-030-93944-1_11">
+           DPM/CBT2021
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Configurable Per-Query Data Minimization for Privacy-Compliant Web APIs.</td>
       <td align="center">Data collection</td>
       <td align="center"></td>
@@ -403,21 +416,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 <table>
   <tbody>
-    <tr>
-      <td align="left">Towards a Formal Approach for Data Minimization in Programs.</td>
-      <td align="left">
-        <ul>
-          <li>xxx</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Conference</td>
-      <td align="center">
-        <a href="https://link.springer.com/chapter/10.1007/978-3-030-93944-1_11">
-           DPM/CBT2021
-        </a>
-      </td>
-    </tr>
     <tr>
       <td align="left">From Data Minimization to Data Minimummization.</td>
       <td align="left">
