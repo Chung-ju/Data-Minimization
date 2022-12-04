@@ -292,6 +292,19 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">Privacy 3.0 := Data Minimization + User Control + Contextual Integrity.</td>
+      <td align="center">Other</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      </td>
+      <td align="center">
+        <a href="https://www.degruyter.com/document/doi/10.1524/itit.2011.0622/html">
+          InfTech2011
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Regime Change: Enabling Big Data through Europe's New Data Protection Regulation.</td>
       <td align="center">Other</td>
       <td align="center"></td>
@@ -390,21 +403,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 <table>
   <tbody>
-    <tr>
-      <td align="left">Privacy 3.0 := Data Minimization + User Control + Contextual Integrity.</td>
-      <td align="left">
-        <ul>
-          <li>xxx</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Journal</td>
-      <td align="center">
-        <a href="https://www.degruyter.com/document/doi/10.1524/itit.2011.0622/html">
-          InfTech2011
-        </a>
-      </td>
-    </tr>
     <tr>
       <td align="left">Towards a Formal Approach for Data Minimization in Programs.</td>
       <td align="left">
