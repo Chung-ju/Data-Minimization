@@ -276,6 +276,23 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">A semi-automated BPMN-based framework for detecting conflicts between security, data-minimization, and fairness requirements.</td>
+      <td align="center">Data inference</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+        <ul>
+          <li>Reusable domain-specific detection (conflict between needs and specifications)</li>
+          <li>Fairness-related conflict</li>
+        </ul>
+      </td>
+      <td align="center">
+        <a href="https://link.springer.com/article/10.1007/s10270-020-00781-x">
+          SSM2020
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">A Siamese Adversarial Anonymizer for Data Minimization in Biometric Applications.</td>
       <td align="center">Data inference</td>
       <td align="center"></td>
@@ -391,23 +408,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">
         <a href="https://techreg.org/article/download/10986/version/10973/11960/20667">
           TechReg2021
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left">A semi-automated BPMN-based framework for detecting conflicts between security, data-minimization, and fairness requirements.</td>
-      <td align="center">?</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="left">
-        <ul>
-          <li>Reusable domain-specific detection (conflict between needs and specifications)</li>
-          <li>Fairness-related conflict</li>
-        </ul>
-      </td>
-      <td align="center">
-        <a href="https://link.springer.com/article/10.1007/s10270-020-00781-x">
-          SSM2020
         </a>
       </td>
     </tr>
