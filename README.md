@@ -81,6 +81,19 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">Student Success Prediction and the Trade-Off between Big Data and Data Minimization.</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      </td>
+      <td align="center">
+        <a href="https://dspace.gi.de/bitstream/handle/20.500.12116/21041/proceedings_22.pdf?sequence=1&isAllowed=y">
+          DeLFI2018
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Query-Driven Data Minimization with the DataEconomist.</td>
       <td align="center">Data collection</td>
       <td align="center"></td>
@@ -351,21 +364,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 <table>
   <tbody>
-    <tr>
-      <td align="left">Student Success Prediction and the Trade-Off between Big Data and Data Minimization.</td>
-      <td align="left">
-        <ul>
-          <li>xxx</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Conference</td>
-      <td align="center">
-        <a href="https://dspace.gi.de/bitstream/handle/20.500.12116/21041/proceedings_22.pdf?sequence=1&isAllowed=y">
-          DeLFI2018
-        </a>
-      </td>
-    </tr>
     <tr>
       <td align="left">The Legal Challenges of Big Data: Putting Secondary Rules First in the Field of EU Data Protection.</td>
       <td align="left">
