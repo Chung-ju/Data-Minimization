@@ -159,6 +159,19 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">How to address data privacy concerns when using social media data in conservation science.</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      </td>
+      <td align="center">
+        <a href="https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/cobi.13708">
+          ConBio2021
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Configurable Per-Query Data Minimization for Privacy-Compliant Web APIs.</td>
       <td align="center">Data collection</td>
       <td align="center"></td>
@@ -313,21 +326,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 <table>
   <tbody>
-    <tr>
-      <td align="left">How to address data privacy concerns when using social media data in conservation science.</td>
-      <td align="left">
-        <ul>
-          <li>xxx</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Journal</td>
-      <td align="center">
-        <a href="https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/cobi.13708">
-          ConBio2021
-        </a>
-      </td>
-    </tr>
     <tr>
       <td align="left">Regime Change: Enabling Big Data through Europe's New Data Protection Regulation.</td>
       <td align="left">
