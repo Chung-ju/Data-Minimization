@@ -55,6 +55,19 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <th align="center">Link</th>
     </tr>
     <tr>
+      <td align="left">Privacy Architectures: Reasoning About Data Minimisation and Integrity.</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      </td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-319-11851-2_2">
+          STM2014
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Towards Query-Driven Data Minimization.</td>
       <td align="center">Data collection</td>
       <td align="center"></td>
@@ -288,21 +301,6 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 <table>
   <tbody>
-    <tr>
-      <td align="left">Privacy Architectures: Reasoning About Data Minimisation and Integrity.</td>
-      <td align="left">
-        <ul>
-          <li>xxx</li>
-        </ul>
-      </td>
-      <td align="center"></td>
-      <td align="center">Conference</td>
-      <td align="center">
-        <a href="https://link.springer.com/chapter/10.1007/978-3-319-11851-2_2">
-          STM2014
-        </a>
-      </td>
-    </tr>
     <tr>
       <td align="left">Fair Inputs and Fair Outputs The Incompatibility of Fairness in Privacy and Accuracy.</td>
       <td align="left">
