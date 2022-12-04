@@ -24,7 +24,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 #### Stage 2: data inference
 
-*Search some FL-related papers.*
+*Search for some FL-related papers.*
 
 #### Stage 3: data autit
 
