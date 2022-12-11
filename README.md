@@ -264,6 +264,19 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       </td>
     </tr>
     <tr>
+      <td align="left">Privacy for Free: How does Dataset Condensation Help Privacy.</td>
+      <td align="center">Data collection</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="left">
+      </td>
+      <td align="center">
+        <a href="https://arxiv.org/pdf/2206.00240.pdf">
+          ICML2022
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Detecting Conflicts Between Data-Minimization and Security Requirements in Business Process Models.</td>
       <td align="center">Data inference</td>
       <td align="center"></td>
