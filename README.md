@@ -59,8 +59,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">Data collection</td>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="left">
-      </td>
+      <td align="left">The context of the data in the form of metadata is collected along with the data.</td>
       <td align="center">
         <a href="https://link.springer.com/chapter/10.1007/978-3-642-30487-3_15">
            DPIS2013
