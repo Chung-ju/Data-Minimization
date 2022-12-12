@@ -71,7 +71,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">Data collection</td>
       <td align="center">Property</td>
       <td align="center">Integrity</td>
-      <td align="left">Privacy architecture</td>
+      <td align="left">Privacy architecture | Focus on a key aspect of privacy, data minimisation, and its tension with integrity requirements.</td>
       <td align="center">
         <a href="https://link.springer.com/chapter/10.1007/978-3-319-11851-2_2">
           STM2014
