@@ -50,7 +50,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <th>Title</th>
       <th align="center">Stage</th>
       <th align="center">Min. entity</th>
-      <th align="center">Min. technique</th>
+      <th align="center">Min. tech./meas.</th>
       <th align="center">Note</th>
       <th align="center">Link</th>
     </tr>
