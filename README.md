@@ -95,8 +95,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">Data collection</td>
       <td align="center">Daily activity data</td>
       <td align="center">Anonymization</td>
-      <td align="left">
-      </td>
+      <td align="left">Education</td>
       <td align="center">
         <a href="https://dspace.gi.de/bitstream/handle/20.500.12116/21041/proceedings_22.pdf?sequence=1&isAllowed=y">
           DeLFI2018
