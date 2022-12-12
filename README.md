@@ -134,7 +134,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center"></td>
       <td align="center"></td>
       <td>
-        Recommender systems, Personalization
+        Recommender systems | Personalization | Performance-based data minimization
       </td>
       <td align="center">
         <a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401034">
