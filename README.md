@@ -131,8 +131,8 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
     <tr>
       <td align="left">Operationalizing the Legal Principle of Data Minimization for Personalization.</td>
       <td align="center">Data collection</td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">Per-user data</td>
+      <td align="center">Average performance/Per-user performance</td>
       <td>
         Recommender systems | Personalization | Performance-based data minimization
       </td>
