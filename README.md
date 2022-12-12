@@ -117,7 +117,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
     <tr>
       <td align="left">A Data Minimization Model for Embedding Privacy into Software Systems.</td>
       <td align="center">Data collection</td>
-      <td align="center"></td>
+      <td align="center">Data usage</td>
       <td align="center"></td>
       <td align="left">
         Understand and minimize the use of data, Data sensitivity, Software system design
