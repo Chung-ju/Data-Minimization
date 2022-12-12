@@ -105,9 +105,9 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
     <tr>
       <td align="left">Query-Driven Data Minimization with the DataEconomist.</td>
       <td align="center">Data collection</td>
-      <td align="center">Data amount | Data access</td>
+      <td align="center">Data amount, Data access</td>
       <td align="center"></td>
-      <td align="left">Database</td>
+      <td align="left">Database | Delete unnecessary data</td>
       <td align="center">
         <a href="https://openproceedings.org/2019/conf/edbt/EDBT19_paper_365.pdf">
           EDBT2019
