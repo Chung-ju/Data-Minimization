@@ -120,7 +120,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">Data usage</td>
       <td align="center">Data sensitivity, visibility, relevance</td>
       <td align="left">
-        Understand and minimize the use of data, Data sensitivity, Software system design
+        Understand and minimize the use of data | Software system design
       </td>
       <td align="center">
         <a href="https://www.sciencedirect.com/science/article/pii/S0167404818309106">
