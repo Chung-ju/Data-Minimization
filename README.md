@@ -107,8 +107,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">Data collection</td>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="left">
-      </td>
+      <td align="left">Database</td>
       <td align="center">
         <a href="https://openproceedings.org/2019/conf/edbt/EDBT19_paper_365.pdf">
           EDBT2019
