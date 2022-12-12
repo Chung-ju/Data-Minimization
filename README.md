@@ -81,10 +81,9 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
     <tr>
       <td align="left">Towards Query-Driven Data Minimization.</td>
       <td align="center">Data collection</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="left">
-      </td>
+      <td align="center">Query meta-information</td>
+      <td align="center">User-specific access</td>
+      <td align="left">Database</td>
       <td align="center">
         <a href="https://ceur-ws.org/Vol-2191/paper39.pdf">
           LWDA2018
