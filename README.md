@@ -93,8 +93,8 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
     <tr>
       <td align="left">Student Success Prediction and the Trade-Off between Big Data and Data Minimization.</td>
       <td align="center">Data collection</td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">Daily activity data</td>
+      <td align="center">Anonymization</td>
       <td align="left">
       </td>
       <td align="center">
