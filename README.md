@@ -181,8 +181,8 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
     <tr>
       <td align="left">How to address data privacy concerns when using social media data in conservation science.</td>
       <td align="center">Data collection</td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">Data subject</td>
+      <td align="center">DPIA technique</td>
       <td align="left">Social media data | Conservation science</td>
       <td align="center">
         <a href="https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/cobi.13708">
