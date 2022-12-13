@@ -157,7 +157,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
     <tr>
       <td align="left">Embedding Personal Data Minimization Technologies in Organizations: Needs, Vision and Artifacts.</td>
       <td align="center">Data collection</td>
-      <td align="center"></td>
+      <td align="center">Identifiable features</td>
       <td align="center">SDC technology</td>
       <td align="left">Data intensive organizations</td>
       <td align="center">
