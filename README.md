@@ -170,8 +170,8 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="left">A Lightweight Scheme Exploiting Social Networks for Data Minimization According to the GDPR.</td>
       <td align="center">Data collection</td>
       <td align="center"></td>
-      <td align="center"></td>
-      <td align="left">
+      <td align="center">User-selected disclosure</td>
+      <td align="left">Social network</td>
       <td align="center">
         <a href="https://ieeexplore.ieee.org/abstract/document/9330798">
           TCSS2021
