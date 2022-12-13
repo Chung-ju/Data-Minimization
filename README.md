@@ -183,8 +183,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">Data collection</td>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="left">
-      </td>
+      <td align="left">Social media data</td>
       <td align="center">
         <a href="https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/cobi.13708">
           ConBio2021
