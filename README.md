@@ -145,9 +145,9 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
     <tr>
       <td align="left">Fair Inputs and Fair Outputs The Incompatibility of Fairness in Privacy and Accuracy.</td>
       <td align="center">Data collection</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="left"></td>
+      <td align="center">Feature subset</td>
+      <td align="center">Prediction accuracy</td>
+      <td align="left">Need-to-know principle and fair privacy principle</td>
       <td align="center">
         <a href="https://dl.acm.org/doi/abs/10.1145/3386392.3399568">
           UMAP2020
