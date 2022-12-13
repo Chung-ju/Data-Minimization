@@ -195,8 +195,7 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
       <td align="center">Data collection</td>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="left">
-      </td>
+      <td align="left">Secure information flow</td>
       <td align="center">
         <a href="https://link.springer.com/chapter/10.1007/978-3-030-93944-1_11">
            DPM/CBT2021
