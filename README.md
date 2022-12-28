@@ -26,6 +26,8 @@ The first and perhaps most intuitive explanation of minimum is on the <em>data q
 
 *Search for some FL-related papers.*
 
+A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
+
 #### Stage 3: data autit
 
 ### 3. Terminology explanation
