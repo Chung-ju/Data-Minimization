@@ -46,6 +46,8 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
 
 ### 4. Related papers
 
+[Details](https://docs.google.com/spreadsheets/d/13vyzzS1vo3FLmZ8jX2MVQZsTDVn7sofe-sRowG5AVf8/edit?usp=sharing)
+
 <table>
   <tbody>
     <tr>
