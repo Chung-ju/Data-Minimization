@@ -53,17 +53,11 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
     <tr>
       <th>Title</th>
       <th align="center">Stage</th>
-      <th align="center">Min. entity</th>
-      <th align="center">Min. tech./meas.</th>
-      <th align="center">Note</th>
       <th align="center">Link</th>
     </tr>
     <tr>
       <td align="left">From Data Minimization to Data Minimummization.</td>
       <td align="center">Data collection</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="left">The context of the data in the form of metadata is collected along with the data. | Database</td>
       <td align="center">
         <a href="https://link.springer.com/chapter/10.1007/978-3-642-30487-3_15">
            DPIS2013
@@ -73,9 +67,6 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
     <tr>
       <td align="left">Privacy Architectures: Reasoning About Data Minimisation and Integrity.</td>
       <td align="center">Data collection</td>
-      <td align="center">Property</td>
-      <td align="center">Integrity</td>
-      <td align="left">Privacy architecture | Focus on a key aspect of privacy, data minimisation, and its tension with integrity requirements.</td>
       <td align="center">
         <a href="https://link.springer.com/chapter/10.1007/978-3-319-11851-2_2">
           STM2014
