@@ -77,7 +77,7 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       <td align="left">Data Minimisation: A Language-Based Approach.</td>
       <td align="center">Data collection</td>
       <td align="center">
-        <a href="https://link.springer.com/chapter/10.1007/978-3-319-11851-2_2">
+        <a href="https://arxiv.org/pdf/1611.05642.pdf">
           SEC2017
         </a>
       </td>
