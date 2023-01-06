@@ -74,6 +74,15 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       </td>
     </tr>
     <tr>
+      <td align="left">Data Minimisation: A Language-Based Approach.</td>
+      <td align="center">Data collection</td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-319-11851-2_2">
+          SEC2017
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Towards Query-Driven Data Minimization.</td>
       <td align="center">Data collection</td>
       <td align="center">
