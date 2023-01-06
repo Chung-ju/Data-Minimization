@@ -327,7 +327,7 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
     </tr>
     <tr>
       <td align="left">A survey of data minimisation techniques in blockchain-based healthcare.</td>
-      <td align="center">Other</td>
+      <td align="center">Survey</td>
       <td align="center">
         <a href="https://www.sciencedirect.com/science/article/pii/S1389128622000044">
           ComNet2022
