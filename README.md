@@ -42,7 +42,8 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
 + **Depth-based data minimization**: aims to minimize the overall amount of data collected for one data modality.
 + **Runtime data minimization**: aims to minimize newly collected data for analysis or prediction.
 + **Personalized data minimization**: aims to allow different users to reveal more or less about different aspects of their lives based on their own personal preference.
-+ **Query-Driven Data Minimization**:
++ **Query-driven data minimization**:
++ **Language-based data minimization**:
 
 ### 4. Related papers
 
