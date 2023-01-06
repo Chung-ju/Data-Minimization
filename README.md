@@ -352,5 +352,14 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Data Minimisation as Privacy and Trust Instrument in Business Processes.</td>
+      <td align="center">?</td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-030-66498-5_2">
+          BPMW2020
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
