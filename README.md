@@ -334,5 +334,14 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Data Minimisation Potential for Timestamps in Git: An Empirical Analysis of User Configurations.</td>
+      <td align="center">?</td>
+      <td align="center">
+        <a href="https://svs.informatik.uni-hamburg.de/publications/2022/2022-06-08_Burkert-Datamin-Potential-Timestamps.pdf">
+          Sec2022
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
