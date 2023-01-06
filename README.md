@@ -343,5 +343,14 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">A Refactoring for Data Minimisation Using Formal Verification.</td>
+      <td align="center">?</td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-031-19756-7_19">
+          ISoLA2022
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
