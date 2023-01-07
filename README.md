@@ -57,6 +57,15 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       <th align="center">Link</th>
     </tr>
     <tr>
+      <td align="left">Limiting data collection in application forms: A real-case application of a founding privacy principle.</td>
+      <td align="center">Data collection</td>
+      <td align="center">
+        <a href="https://ieeexplore.ieee.org/abstract/document/6297920">
+          PST2012
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Privacy Architectures: Reasoning About Data Minimisation and Integrity.</td>
       <td align="center">Data collection</td>
       <td align="center">
