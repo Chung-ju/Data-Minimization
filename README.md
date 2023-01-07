@@ -57,15 +57,6 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       <th align="center">Link</th>
     </tr>
     <tr>
-      <td align="left">From Data Minimization to Data Minimummization.</td>
-      <td align="center">Data collection</td>
-      <td align="center">
-        <a href="https://link.springer.com/chapter/10.1007/978-3-642-30487-3_15">
-           DPIS2013
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td align="left">Privacy Architectures: Reasoning About Data Minimisation and Integrity.</td>
       <td align="center">Data collection</td>
       <td align="center">
@@ -278,6 +269,15 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       <td align="center">
         <a href="https://www.degruyter.com/document/doi/10.1524/itit.2011.0622/html">
           InfTech2011
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">From Data Minimization to Data Minimummization.</td>
+      <td align="center">Other</td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-642-30487-3_15">
+           DPIS2013
         </a>
       </td>
     </tr>
