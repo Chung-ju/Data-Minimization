@@ -389,5 +389,14 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Personality Is Revealed During Weekends: Towards Data Minimisation for Smartphone Based Personality Classification.</td>
+      <td align="center">?</td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-030-29387-1_32">
+          INTERACT2019
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
