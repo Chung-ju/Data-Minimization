@@ -380,5 +380,14 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Monitoring Data Minimisation.</td>
+      <td align="center">?</td>
+      <td align="center">
+        <a href="https://arxiv.org/pdf/1801.02484.pdf">
+          CoRR2018
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
