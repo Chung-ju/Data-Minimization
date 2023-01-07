@@ -363,11 +363,20 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       </td>
     </tr>
     <tr>
-      <td align="left">Data Minimisation in Communication Protocols: A Formal Analysis Framework and Application to Identity Management..</td>
+      <td align="left">Data Minimisation in Communication Protocols: A Formal Analysis Framework and Application to Identity Management.</td>
       <td align="center">?</td>
       <td align="center">
         <a href="https://link.springer.com/article/10.1007/s10207-014-0235-z">
           IJIS2014
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">TRIPLEX: verifying data minimisation in communication systems.</td>
+      <td align="center">?</td>
+      <td align="center">
+        <a href="https://www.researchgate.net/profile/Nicola-Zannone/publication/266654644_Poster_-_TRIPLEX_Verifying_data_minimisation_in_communication_systems/links/55c9c3af08aeb9756747a2e4/Poster-TRIPLEX-Verifying-data-minimisation-in-communication-systems.pdf">
+          CCS2013
         </a>
       </td>
     </tr>
