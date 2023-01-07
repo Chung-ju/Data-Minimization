@@ -291,6 +291,15 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       </td>
     </tr>
     <tr>
+      <td align="left">Mo'Data, Mo'Problems? Personal Data Mining and the Challenge to the Data Minimization Principle.</td>
+      <td align="center">Other</td>
+      <td align="center">
+        <a href="https://fpf.org/wp-content/uploads/2013/08/Colonna-Mo-Data-Mo-Problems1.pdf">
+           FPF2013
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Regime Change: Enabling Big Data through Europe's New Data Protection Regulation.</td>
       <td align="center">Other</td>
       <td align="center">
