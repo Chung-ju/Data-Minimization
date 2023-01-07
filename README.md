@@ -398,5 +398,14 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Prevention of Personally Identifiable Information Leakage in E-commerce via Offline Data Minimisation and Pseudonymisation.</td>
+      <td align="center">?</td>
+      <td align="center">
+        <a href="https://ijisrt.com/assets/upload/files/IJISRT21JAN140.pdf">
+          IJISRT2021
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
