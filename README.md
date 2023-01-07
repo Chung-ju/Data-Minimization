@@ -336,6 +336,15 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       </td>
     </tr>
     <tr>
+      <td align="left">Towards a Roadmap for Privacy Technologies and the General Data Protection Regulation: A Transatlantic Initiative.</td>
+      <td align="center">Other</td>
+      <td align="center">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-030-02547-2_2">
+          APF2018
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Reviving Purpose Limitation and Data Minimisation in DataDriven Systems.</td>
       <td align="center">Other</td>
       <td align="center">
