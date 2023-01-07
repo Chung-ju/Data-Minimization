@@ -362,6 +362,14 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
         </a>
       </td>
     </tr>
-    
+    <tr>
+      <td align="left">Data Minimisation in Communication Protocols: A Formal Analysis Framework and Application to Identity Management..</td>
+      <td align="center">?</td>
+      <td align="center">
+        <a href="https://link.springer.com/article/10.1007/s10207-014-0235-z">
+          IJIS2014
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
