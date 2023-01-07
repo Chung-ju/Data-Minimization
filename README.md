@@ -416,5 +416,14 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Engineering privacy by design reloaded.</td>
+      <td align="center">?</td>
+      <td align="center">
+        <a href="https://software.imdea.org/~carmela.troncoso/papers/Gurses-APC15.pdf">
+          APC2015
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
