@@ -447,3 +447,5 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
     </tr>
   </tbody>
 </table>
+
+### 5. Useful repositories or URLs
