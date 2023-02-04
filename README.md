@@ -452,3 +452,4 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
 
 + [Engineering Privacy for Verified Credentials](https://w3c-ccg.github.io/data-minimization/)
 + [Privacy-Enhancing Technologies (PET)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a98cdbebf7e3c914e39da655b00b31908fca80c3)
++ [AI-SDC](https://github.com/AI-SDC/AI-SDC)
