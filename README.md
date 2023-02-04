@@ -221,6 +221,15 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       </td>
     </tr>
     <tr>
+      <td align="left">Supporting the Design of Privacy-Aware Business Processes via Privacy Process Patterns.</td>
+      <td align="center">Data inference</td>
+      <td align="center">
+        <a href="https://ieeexplore.ieee.org/abstract/document/7956536">
+          RCIS2017
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Detecting Conflicts Between Data-Minimization and Security Requirements in Business Process Models.</td>
       <td align="center">Data inference</td>
       <td align="center">
