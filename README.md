@@ -2,6 +2,8 @@
   <b>Data Minimization</b><br>
 </h1>
 
+**Update: 2023/2/4**
+
 ### 1. Introduction
 
 The principle of "data minimization" means that a data controller should limit the collection of personal information to what is directly relevant and necessary to accomplish a specified purpose. They should also retain the data only for as long as is necessary to fulfil that purpose.
