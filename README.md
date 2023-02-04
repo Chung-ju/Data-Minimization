@@ -449,3 +449,5 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
 </table>
 
 ### 5. Useful repositories or URLs
+
++ [Engineering Privacy for Verified Credentials](https://w3c-ccg.github.io/data-minimization/)
