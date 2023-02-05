@@ -221,6 +221,15 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       </td>
     </tr>
     <tr>
+      <td align="left">Censoring Representations with an Adversary.</td>
+      <td align="center">Data inference</td>
+      <td align="center">
+        <a href="https://arxiv.org/pdf/1511.05897.pdf">
+          ICLR2016
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Supporting the Design of Privacy-Aware Business Processes via Privacy Process Patterns.</td>
       <td align="center">Data inference</td>
       <td align="center">
