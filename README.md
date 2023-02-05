@@ -275,6 +275,15 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       </td>
     </tr>
     <tr>
+      <td align="left">A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics.</td>
+      <td align="center">Data inference</td>
+      <td align="center">
+        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8962332">
+          ITJ2020
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Data Minimization for GDPR Compliance in Machine Learning Models.</td>
       <td align="center">Data inference</td>
       <td align="center">
