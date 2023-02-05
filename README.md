@@ -257,6 +257,15 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       </td>
     </tr>
     <tr>
+      <td align="left">Generating Optimal Privacy-Protection Mechanisms via Machine Learning.</td>
+      <td align="center">Data inference</td>
+      <td align="center">
+        <a href="https://www.researchgate.net/profile/Catuscia-Palamidessi/publication/332169100_Generating_Optimal_Privacy-Protection_Mechanisms_via_Machine_Learning/links/5e0048ab299bf10bc37194da/Generating-Optimal-Privacy-Protection-Mechanisms-via-Machine-Learning.pdf">
+          CORR2019
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">A semi-automated BPMN-based framework for detecting conflicts between security, data-minimization, and fairness requirements.</td>
       <td align="center">Data inference</td>
       <td align="center">
