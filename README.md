@@ -248,6 +248,15 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       </td>
     </tr>
     <tr>
+      <td align="left">Mobile Sensor Data Anonymization.</td>
+      <td align="center">Data inference</td>
+      <td align="center">
+        <a href="https://arxiv.org/pdf/1810.11546.pdf">
+          IoTDI2019
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">A semi-automated BPMN-based framework for detecting conflicts between security, data-minimization, and fairness requirements.</td>
       <td align="center">Data inference</td>
       <td align="center">
