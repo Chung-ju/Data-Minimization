@@ -284,6 +284,15 @@ A SDC repository: [AI-SDC](https://github.com/AI-SDC/AI-SDC)
       </td>
     </tr>
     <tr>
+      <td align="left">AI auditing and impact assessment: according to the UK information commissioner’s office.</td>
+      <td align="center">Data audit</td>
+      <td align="center">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3375627.3375852">
+          AIEthics2021
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Privacy 3.0 := Data Minimization + User Control + Contextual Integrity.</td>
       <td align="center">Other</td>
       <td align="center">
